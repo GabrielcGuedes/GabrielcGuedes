@@ -20,6 +20,11 @@ Amante de tecnologia, bons filmes e jogos bem feitos, sou um programador inician
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
+<br />
+<br />
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=GabrielcGuedes&repo=Myrepos)](https://github.com/GabrielcGuedes/Myrepos)
+
 [website]: https://bit.ly/portfoliogabrielcg
 [linkedin]: https://www.linkedin.com/in/gabriel-correa-guedes-13a6a3190/
 [Gmail]: mailto:gabrielguedes75@gmail.com
