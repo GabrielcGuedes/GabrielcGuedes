@@ -2,13 +2,13 @@
 
 ## Um pouco de mim...
 Amante de tecnologia, bons filmes e jogos bem feitos, sou um programador iniciante empenhado em estar sempre evoluindo e me superando. Curso Sistemas de Informação na Universidade UMC, e meu aprendizado inclui as linguagens de programação C, C#, JAVA, PHP e também HTML, CSS, SQL. Sonho em me tornar um programador competente e versátil.
-
+---
 ### Meus links:
 [<img align="left" alt="portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="gabriel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
+---
 ### Linguagens e Ferramentas:
-<code><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"/></code>
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"/>]
 
 [website]: https://bit.ly/portfoliogabrielcg
 [linkedin]: https://www.linkedin.com/in/gabriel-correa-guedes-13a6a3190/
