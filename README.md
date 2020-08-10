@@ -22,4 +22,4 @@ Amante de tecnologia, bons filmes e jogos bem feitos, sou um programador inician
 
 [website]: https://bit.ly/portfoliogabrielcg
 [linkedin]: https://www.linkedin.com/in/gabriel-correa-guedes-13a6a3190/
-[Gmail]: gabriel:gabrielguedes75@gmail.com
+[Gmail]: mailto:gabrielguedes75@gmail.com
