@@ -23,7 +23,7 @@ Amante de tecnologia, bons filmes e jogos bem feitos, sou um programador inician
 <br />
 <br />
 
-
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=GabrielcGuedes&repo=Myrepos)](https://github.com/GabrielcGuedes/Myrepos)
 
 [website]: https://bit.ly/portfoliogabrielcg
 [linkedin]: https://www.linkedin.com/in/gabriel-correa-guedes-13a6a3190/
