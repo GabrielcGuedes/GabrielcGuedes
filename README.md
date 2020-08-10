@@ -1,6 +1,6 @@
 ### 😄 Olá, me chamo Gabriel 👋
 
-## 🔥Um pouco de mim...
+## 🔥Um pouco sobre mim...
 Amante de tecnologia, bons filmes e jogos bem feitos, sou um programador iniciante empenhado em estar sempre evoluindo e me superando. Curso Sistemas de Informação na Universidade UMC, e meu aprendizado inclui as linguagens de programação C, C#, JAVA, PHP e também HTML, CSS, SQL. Sonho em me tornar um programador competente e versátil.
 
 ### 🔗Meus links:
