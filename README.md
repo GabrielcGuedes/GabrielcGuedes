@@ -27,6 +27,6 @@ Meu principal objetivo hoje é me tornar um desenvolvedor back end em java, e me
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin?username=GabrielcGuedes&repo=Myrepos)](https://github.com/GabrielcGuedes/Myrepos)
 
-[website]: https://bit.ly/portfoliogabrielcg
+[website]: https://bit.ly/portgcg
 [linkedin]: https://www.linkedin.com/in/gabriel-correa-guedes-13a6a3190/
 [Gmail]: mailto:gabrielguedes75@gmail.com
