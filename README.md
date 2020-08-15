@@ -1,7 +1,7 @@
 ### 😄 Olá, me chamo Gabriel 👋
 
 ## 🔥Um pouco sobre mim...
-Amante de tecnologia, bons filmes e jogos bem feitos, sou um programador iniciante empenhado em estar sempre evoluindo e me superando. Curso Sistemas de Informação na Universidade UMC, que tem um foco grande na linguagem Java, mas que também é ensinado coisas em C#, além de uma boa base em C, PHP, HTML, CSS, SQL, UML, seguraça da informação, etc. 
+Amante de tecnologia, bons filmes e jogos bem feitos, sou um programador iniciante empenhado em estar sempre evoluindo e me superando. Curso Sistemas de Informação na Universidade UMC, que tem um foco grande na linguagem Java, mas que também é ensinado coisas em C#, além de uma boa base em C, PHP, HTML, CSS, SQL, UML, segurança da informação, etc. 
 <br />
 Meu principal objetivo hoje é me tornar um desenvolvedor back end em java, e meu objetivo secundário é o React como front end.
 
