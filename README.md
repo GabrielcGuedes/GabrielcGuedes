@@ -3,10 +3,9 @@
 ## 🔥Um pouco sobre mim...
 Amante de tecnologia, bons filmes e jogos bem feitos, sou um programador iniciante empenhado em estar sempre evoluindo e me superando. Curso Sistemas de Informação na Universidade UMC, que tem um foco grande na linguagem Java, mas que também é ensinado coisas em C#, além de uma boa base em C, PHP, HTML, CSS, SQL, UML, segurança da informação, etc. 
 <br />
-Meu principal objetivo hoje é me tornar um desenvolvedor back end em java, e meu objetivo secundário é o React como front end.
+Atualmente estou trabalhando no Santander pela BRQ, desenvolvendo micros serviços em Java, onde meu principal objetivo hoje é me tornar um excelente desenvolvedor back end em Java. 
 
 ### 🔗Meus links:
-[<img align="left" alt="portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="gabriel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="gabriel | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][Gmail]
 
@@ -27,6 +26,5 @@ Meu principal objetivo hoje é me tornar um desenvolvedor back end em java, e me
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin?username=GabrielcGuedes&repo=Myrepos)](https://github.com/GabrielcGuedes/Myrepos)
 
-[website]: https://bit.ly/portgcg
 [linkedin]: https://www.linkedin.com/in/gabriel-correa-guedes-13a6a3190/
 [Gmail]: mailto:gabrielguedes75@gmail.com
